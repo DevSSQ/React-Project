@@ -1,7 +1,9 @@
-.App{
-  display: grid;
-  grid-template-columns: repeat(3,2fr);
-}
+/* .App{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20%;
+} */
 .nav-list {
   display: flex;
   flex-direction: row;
