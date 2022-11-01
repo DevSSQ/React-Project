@@ -1,0 +1,36 @@
+[[{
+  "name": "JavaScript",
+  "description":"Java allows you to build and make web pages interactive."
+},
+{
+  "name": "Java",
+  "description":"High-level, object-oriented programming language."
+},
+{
+  "name": "CSS",
+  "description":"Language we use to style an HTML document."
+},
+{
+  "name": "Python",
+  "description":"Programming language used to build websites and software."
+},
+{
+  "name": "Swift",
+  "description":"Powerful & intuitive programming language for iOS."
+},
+{
+  "name": "HTML",
+  "description":"Standard markup language for Web pages."
+},
+{
+  "name": "UI/UX",
+  "description":" "
+}, 
+{
+  "name": "Git & Github",
+  "description":" "
+},
+{
+  "name": "SQL",
+  "description":" "
+}]]
